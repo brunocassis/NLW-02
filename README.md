@@ -45,8 +45,8 @@ Proffy is a project developed during a quarantine world.
 It was created with the objective to connect students seeking knowledge and teachers looking to teach and have an extra income.
 
 <h1 align="center">
-    <img align="left" alt="Example" title="Example" src=".github/home.png" width=65% />
-    <img alt="Example" title="Example" src=".github/mobile.png" height="352" />
+    <img align="left" alt="Example" title="Example" src=".github/home.png" width=66% />
+    <img alt="Example" title="Example" src=".github/mobile.png" height="355" />
 </h1>
 
 
