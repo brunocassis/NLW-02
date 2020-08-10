@@ -46,7 +46,7 @@ It was created with the objective to connect students seeking knowledge and teac
 
 <h1 align="center">
     <img align="left" alt="Example" title="Example" src=".github/home.png" width=70% />
-    <img alt="Example" title="Example" src=".github/mobile.png" height="340" />
+    <img alt="Example" title="Example" src=".github/mobile.png" height="337" />
 </h1>
 
 
