@@ -7,7 +7,7 @@
 </h4>
 <p align="center">	
 	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunocassis/NLW-02">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunocassis/Proffy">
 	
   <a href="https://www.linkedin.com/in/bruno-conehero-de-assis-06073a104/">
     <img alt="Made by Bruno Assis" src="https://img.shields.io/badge/made%20by-BrunoAssis-%2304D361">
@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   
-  <a href="https://github.com/brunocassis/NLW-02/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunocassis/NLW-02">
+  <a href="https://github.com/brunocassis/Proffy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunocassis/Proffy">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -74,10 +74,10 @@ From your command line:
 
 ```bash
 # First, clone this repository
-$ git clone https://github.com/brunocassis/NLW-02.git
+$ git clone https://github.com/brunocassis/Proffy.git
 
 # Go into the repository
-$ cd NLW-02/server
+$ cd Proffy/server
 
 # Install dependencies
 $ yarn install
@@ -93,11 +93,9 @@ $ yarn start
 ### Install Front-end
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/brunocassis/NLW-02.git
-
-# Go into the repository
-$ cd NLW-02/web
+# Now, get back to the Proffy folder and move to the web folder
+$ cd .. 
+$ cd web
 
 # Install dependencies
 $ yarn install
@@ -111,11 +109,9 @@ $ yarn start
 ### Install Mobile
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/brunocassis/NLW-02.git
-
-# Go into the repository
-$ cd NLW-02/mobile
+# Last, get back to the Proffy folder and move to the mobile folder
+$ cd .. 
+$ cd mobile
 
 # Install dependencies
 $ yarn install
@@ -123,7 +119,7 @@ $ yarn install
 # Run
 $ yarn start
 
-# Expo will open, just scan the qrcode on terminal or expo page
+# Expo will open, just scan the QRcode on terminal to run on your physical device
 
 ```
 ## 🤔 How to contribute
@@ -137,7 +133,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/brunocassis/NLW-02/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/brunocassis/Proffy/blob/master/LICENSE) for details.
 
 ---
 
